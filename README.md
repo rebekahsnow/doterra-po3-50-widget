@@ -1,6 +1,11 @@
 # doterra-po3-widget
-DoTERRA's Power of Three $50 Bonus Widget is an amazing tool that allows wellness advocates 
-## Promo Video 
+DoTERRA's Power of Three $50 Bonus Widget is a convenient tool that allows wellness advocates to quickly glance at their progress and see if they are close to achieving their $50 monthly bonus. This information was never available on mobile until now, making it a game changer.
+
+I was able to spearhead this project with the help of two back-end developers and our usability research team. Feedback from customers has been fantastic; they now want more widgets to help them run their business.
+
+ℹ️ The following documentation is intended for internal use only. Some information has been redacted for privacy. See below for examples of the documentation experience.
+## Promo Videos
+https://www.youtube.com/watch?v=GRjHj73SBa8
 https://www.youtube.com/watch?v=YxJMa38EimQ
 
 ## Po3 Rules
