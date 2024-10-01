@@ -1,4 +1,7 @@
 # doterra-po3-widget
+DoTERRA's Power of Three $50 Bonus Widget is an amazing tool that allows wellness advocates 
+## Promo Video 
+https://www.youtube.com/watch?v=YxJMa38EimQ
 
 ## Po3 Rules
 https://media.doterra.com/us/en/flyers/power-of-3.pdf
