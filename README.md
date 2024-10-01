@@ -5,7 +5,9 @@ I was able to spearhead this project with the help of two back-end developers an
 
 ℹ️ The following documentation is intended for internal use only. Some information has been redacted for privacy. See below for examples of the documentation experience.
 ## Promo Videos
+
 https://www.youtube.com/watch?v=GRjHj73SBa8
+
 https://www.youtube.com/watch?v=YxJMa38EimQ
 
 ## Po3 Rules
